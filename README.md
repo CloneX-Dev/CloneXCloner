@@ -35,5 +35,5 @@
 
 | Главный экран | Процесс клонирования |
 |---------------|----------------------|
-| ![Главный экран]([https://via.placeholder.com/400x250/543964/ffffff?text=CloneX+Main](https://i.yapx.ru/dig6w.png)) | ![Процесс](https://via.placeholder.com/400x250/1a1a1a/ffffff?text=Cloning+in+progress) |
+| ![Главный экран](https://i.yapx.ru/dig6w.png) | ![Процесс](https://via.placeholder.com/400x250/1a1a1a/ffffff?text=Cloning+in+progress) |
 
