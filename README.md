@@ -6,14 +6,12 @@
 Быстро, безопасно и с детальным контролем процесса.
 
 [![Discord](https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord&color=543964)](https://discord.gg/fb2dMUpTHV)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Shizzy/CloneX?color=543964)](https://github.com/Shizzy/CloneX)
-[![Made with JavaScript](https://img.shields.io/badge/JavaScript-543964?logo=javascript&logoColor=white)]()
 
 ---
 
 ## ✨ Возможности
 
-- 🔄 **Полное клонирование структуры** — название, иконка, роли, категории, каналы, права доступа
+- 🔄 **Полное клонирование структуры** — название, роли, категории, каналы, права доступа
 - 🎯 **Точное копирование** — сохраняются позиции, цвета ролей, битрейт голосовых каналов и переопределения прав
 - 🛑 **Мгновенная отмена** — остановите процесс в любой момент одним кликом
 - 📜 **Детальные логи** — отслеживайте каждый шаг клонирования в реальном времени
